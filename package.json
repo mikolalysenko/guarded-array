@@ -1,0 +1,28 @@
+{
+  "name": "guarded-array",
+  "version": "1.0.0",
+  "description": "Bounds checked array",
+  "main": "guarded-array.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikolalysenko/guarded-array.git"
+  },
+  "keywords": [
+    "bounds",
+    "check",
+    "array",
+    "guard"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/guarded-array/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/guarded-array"
+}
